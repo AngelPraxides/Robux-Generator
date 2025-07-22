@@ -1,1 +1,1 @@
-function openLocker(){window.open("https://short-link.me/18psK","_blank","noreferrer")}
+function openLocker(){window.open("https://ridefiles.net/1828515","_blank","noreferrer")}
